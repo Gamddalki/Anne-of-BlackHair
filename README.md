@@ -1,5 +1,10 @@
 ![icon-Sheet (1) 1](https://user-images.githubusercontent.com/52921222/155275309-5399e05b-f891-4a25-a9fb-2140e6ca17cf.png)
 # 검은머리 앤
+<div>
+
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+</div>
 ## 💌 팀원 소개
 팀원 이름 | 역할
 ------------- | -------------
